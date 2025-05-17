@@ -45,7 +45,31 @@ b. Create a html file and css file
    - ![image](https://github.com/user-attachments/assets/d5a18aaa-8bf2-46c4-b77e-add921552db3)
   
 7. Create Kubernetes yaml file
-   ![image](https://github.com/user-attachments/assets/39ff2224-2203-43ce-ba42-f497f586cc49)
+   - ![image](https://github.com/user-attachments/assets/39ff2224-2203-43ce-ba42-f497f586cc49)
+  
+   - Apply deployment cluster
+     ![image](https://github.com/user-attachments/assets/b64f5d9e-4f5a-4c9f-8bfb-308e76fa43b6)
+
+8. Create service yaml file
+   - ![image](https://github.com/user-attachments/assets/ea7d3c12-b14d-4ab9-8e39-4aef2f9d5a21)
+  
+   - Apply service cluster
+     - ![image](https://github.com/user-attachments/assets/f388fcb9-47f2-4a5f-9df7-6508c705ed28)
+    
+     - Check pods and services
+     - ![image](https://github.com/user-attachments/assets/041b263a-fe62-4ed0-885b-832c4279d379)
+
+    
+9. Access the application
+   - Port forward to the service to access application
+     
+
+
+   - Open browser and visit the port
+
+
+
+   
 
 
 
