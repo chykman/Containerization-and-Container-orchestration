@@ -31,7 +31,26 @@ b. Create a html file and css file
   5. Login to docker hub and push your image
 - ![image](https://github.com/user-attachments/assets/3d4747fa-2580-42b6-9fb4-1c39006a7e03)
 
-- 
+ Push docker image to repository 
+-  ![image](https://github.com/user-attachments/assets/08b72040-f902-472c-bda8-cc985306139b)
+  
+-  ![image](https://github.com/user-attachments/assets/12cdf014-8686-410a-aff6-994a3a0b86cc)
+
+
+6. Setup kind kubernetes cluster
+   Install kind
+   - ![image](https://github.com/user-attachments/assets/d342d15c-2832-447e-b7d3-0475dd1e5e5d)
+  
+   Create Kind cluster
+   - ![image](https://github.com/user-attachments/assets/d5a18aaa-8bf2-46c4-b77e-add921552db3)
+  
+7. Create Kubernetes yaml file
+   ![image](https://github.com/user-attachments/assets/39ff2224-2203-43ce-ba42-f497f586cc49)
+
+
+
+
+
 
      
 
